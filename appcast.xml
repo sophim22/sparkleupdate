@@ -3,10 +3,10 @@
     <channel>
         <title>SparkleUpdateTest</title>
         <item>
-            <title>1.1</title>
+            <title>2025.5.1</title>
             <pubDate>Tue, 15 Oct 2024 12:46:04 +0700</pubDate>
             <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:shortVersionString>2025.5.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/sophim22/sparkleupdate/releases/download/prod/sparkleupdatetest1.1.dmg" length="824499" type="application/octet-stream" sparkle:edSignature="7w+PBLTeDG4E2mrF18efykEBgnMr21YwYPDcDUoH7CKwI5kEvWbebKVUEb0OJveFXb86Wc8SGqeXB3qtZVCcCQ=="/>
         </item>
